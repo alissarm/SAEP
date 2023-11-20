@@ -1,0 +1,49 @@
+.caixa{
+    text-align: center;
+    border: solid black 1px;
+    width: 450px;
+    height: 250px;
+    margin-top: 150px;
+    margin-left: 400px;
+}
+
+button{
+    background-color: #397e9e;
+    color: white;
+    width: 110px;
+    height: 30px;
+    text-align: center;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: 175px;
+    border: none;
+    cursor: pointer;
+
+}
+input{
+    margin: 10px;
+    width: 200px;
+    height: 30px;
+}
+
+header{
+    padding: 1px;
+    background:#397e9e;
+    color: rgb(255, 255, 255);
+    display:inline-flexbox;
+}
+
+.direita{
+    margin-left: 70%;
+}
+
+#linha-horizontal {
+    width: 300px;
+    margin: 10px;
+    border: 1px solid #000;
+}
+
+h4{
+    margin-left: 22px;
+}
